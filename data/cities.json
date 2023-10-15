@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Washington",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-15T03:38:22.487Z",
+      "notes": "haha",
+      "position": {
+        "lat": "38.8782049970615",
+        "lng": "-77.0416259765625"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Felanitx",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-15T03:40:57.049Z",
+      "notes": "testing -.-",
+      "position": {
+        "lat": "39.52099229357195",
+        "lng": "3.1201171875"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Jacksonville",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-15T03:44:24.144Z",
+      "notes": "",
+      "position": {
+        "lat": "31.80289258670676",
+        "lng": "-82.90283203125001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Everglades",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-15T03:45:22.315Z",
+      "notes": "",
+      "position": {
+        "lat": "25.562265014427492",
+        "lng": "-80.57373046875001"
+      },
+      "id": 98443201
     }
   ]
 }

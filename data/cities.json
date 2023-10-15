@@ -1,42 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
       "cityName": "Washington",
       "country": "United States of America (the)",
       "emoji": "🇺🇸",
@@ -49,40 +13,28 @@
       "id": 98443198
     },
     {
-      "cityName": "Felanitx",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-10-15T03:40:57.049Z",
-      "notes": "testing -.-",
+      "cityName": "Rieti",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-10-15T06:01:32.796Z",
+      "notes": "",
       "position": {
-        "lat": "39.52099229357195",
-        "lng": "3.1201171875"
+        "lat": "42.407234661551875",
+        "lng": "12.875976562500002"
       },
       "id": 98443199
     },
     {
-      "cityName": "Jacksonville",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-10-15T03:44:24.144Z",
+      "cityName": "Beijing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-10-15T06:01:41.677Z",
       "notes": "",
       "position": {
-        "lat": "31.80289258670676",
-        "lng": "-82.90283203125001"
+        "lat": "39.80853604144591",
+        "lng": "116.41113281250001"
       },
       "id": 98443200
-    },
-    {
-      "cityName": "Everglades",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-10-15T03:45:22.315Z",
-      "notes": "",
-      "position": {
-        "lat": "25.562265014427492",
-        "lng": "-80.57373046875001"
-      },
-      "id": 98443201
     }
   ]
 }

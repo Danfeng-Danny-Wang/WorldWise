@@ -13,18 +13,6 @@
       "id": 98443198
     },
     {
-      "cityName": "Rieti",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2023-10-15T06:01:32.796Z",
-      "notes": "",
-      "position": {
-        "lat": "42.407234661551875",
-        "lng": "12.875976562500002"
-      },
-      "id": 98443199
-    },
-    {
       "cityName": "Beijing",
       "country": "China",
       "emoji": "🇨🇳",
@@ -35,6 +23,18 @@
         "lng": "116.41113281250001"
       },
       "id": 98443200
+    },
+    {
+      "cityName": "Greeleyville",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-15T20:55:09.873Z",
+      "notes": "HELLO",
+      "position": {
+        "lat": "33.52307880890422",
+        "lng": "-80.04638671875001"
+      },
+      "id": 98443202
     }
   ]
 }
